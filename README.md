@@ -6,7 +6,7 @@
 
 Construindo projetos, aprendendo novas tecnologias e evoluindo um commit de cada vez.
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=red&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ynick-bas&color=red&style=for-the-badge" alt="Visualizações"/>
 
 </div>
 
@@ -16,9 +16,9 @@ Construindo projetos, aprendendo novas tecnologias e evoluindo um commit de cada
 
 Tenho como objetivo me tornar um desenvolvedor capaz de criar aplicações completas, desde a ideia até a entrega.
 
-Atualmente estou estudando Desenvolvimento de Sistemas e utilizo meus projetos para colocar em prática tudo o que aprendo.
+Atualmente estudo Desenvolvimento de Sistemas e utilizo meus projetos para colocar em prática tudo o que aprendo.
 
-Gosto de desafios, resolver problemas e construir aplicações que realmente possam ser utilizadas por outras pessoas.
+Estou sempre buscando aprender novas tecnologias, melhorar minha lógica de programação e desenvolver projetos que agreguem valor ao meu portfólio.
 
 ---
 
@@ -26,7 +26,7 @@ Gosto de desafios, resolver problemas e construir aplicações que realmente pos
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,react,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,react,git,github,vscode,bootstrap" />
 
 </div>
 
@@ -48,17 +48,17 @@ Gosto de desafios, resolver problemas e construir aplicações que realmente pos
 
 ## 🏆 Sistema de Quiz (PHP)
 
-Sistema competitivo desenvolvido utilizando PHP.
+Sistema competitivo desenvolvido em PHP utilizando Session e JSON.
 
-### Recursos
+### Funcionalidades
 
-- Login
-- Sistema de Pontuação
+- Login de usuários
+- Sistema de pontuação
 - Ranking
-- Sessões (SESSION)
+- Sessões (PHP SESSION)
 - Bootstrap
 - Persistência em JSON
-- Interface Responsiva
+- Interface responsiva
 
 ---
 
@@ -66,7 +66,7 @@ Sistema competitivo desenvolvido utilizando PHP.
 
 Aplicativo mobile desenvolvido em React Native.
 
-### Recursos
+### Funcionalidades
 
 - Login
 - Cadastro
@@ -75,7 +75,7 @@ Aplicativo mobile desenvolvido em React Native.
 - Consumo de API
 - Atualização automática de notícias
 
-Tecnologias:
+### Tecnologias
 
 - React Native
 - Axios
@@ -85,22 +85,22 @@ Tecnologias:
 
 ## 🏅 Tournament Manager *(Em desenvolvimento)*
 
-Projeto para gerenciamento de campeonatos.
+Sistema para gerenciamento de campeonatos.
 
-Planejamento:
+### Planejamento
 
-- Sistema de usuários
-- Times
+- Cadastro de usuários
+- Cadastro de equipes
 - Campeonatos
 - Rankings
-- Administração
+- Painel administrativo
 - Dashboard
 
 ---
 
-## 🌐 Landing Page
+## 🌐 Landing Page *(Em desenvolvimento)*
 
-Meu portfólio pessoal para apresentar meus projetos e trajetória como desenvolvedor.
+Meu portfólio pessoal para apresentar meus projetos, habilidades e trajetória como desenvolvedor.
 
 ---
 
@@ -108,11 +108,11 @@ Meu portfólio pessoal para apresentar meus projetos e trajetória como desenvol
 
 - Desenvolver aplicações completas
 - Aprender arquitetura de software
-- Melhorar lógica de programação
+- Evoluir minhas habilidades em Back-end
 - Aprender Node.js
-- Aprender bancos de dados
-- Criar projetos para portfólio
-- Conseguir minha primeira oportunidade na área
+- Aprender Banco de Dados
+- Construir um portfólio sólido
+- Conquistar minha primeira oportunidade como desenvolvedor
 
 ---
 
@@ -120,17 +120,17 @@ Meu portfólio pessoal para apresentar meus projetos e trajetória como desenvol
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ynick-bas&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ynick-bas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynick-bash&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynick-bas&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ynick-bas&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -138,18 +138,18 @@ Meu portfólio pessoal para apresentar meus projetos e trajetória como desenvol
 
 # 📫 Contato
 
-📧 Email: ynick.cat@gmail.com
+📧 **Email:** **ynick.cat@gmail.com**
 
-💼 LinkedIn: -----
+💼 **LinkedIn:** Em breve
 
-🌐 Portfólio: Em desenvolvimento
+🌐 **Portfólio:** Em desenvolvimento 🚧
 
 ---
 
 <div align="center">
 
-### ⭐ Sempre aprendendo algo novo.
+### ⭐ Sempre aprendendo. Sempre evoluindo.
 
-"Se funciona não mexe."
+*"Aprender hoje. Evoluir amanhã. Construir sempre."*
 
 </div>
