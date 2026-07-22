@@ -120,9 +120,9 @@ Meu portfólio pessoal para apresentar meus projetos, habilidades e trajetória 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ynick-bas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ynick-bash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynick-bas&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynick-bash&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -130,7 +130,7 @@ Meu portfólio pessoal para apresentar meus projetos, habilidades e trajetória 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ynick-bas&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ynick-bash&theme=tokyonight&hide_border=true" />
 
 </div>
 
